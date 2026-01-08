@@ -4,15 +4,11 @@
 
 **High-Performance Intelligent Quantum Computational Chemistry**
 
----
-
 ## Overview
 The Hu Group develops advanced **numerical methods** and **first-principles software** for
 large-scale electronic structure calculations and molecular dynamics simulations.
 Our research targets **supercomputing** and **quantum computing** platforms, with an emphasis on
 accuracy, scalability, and algorithm–architecture co-design.
-
----
 
 ## Research Directions
 - Large-scale density functional theory (DFT)
@@ -22,8 +18,6 @@ accuracy, scalability, and algorithm–architecture co-design.
 - First-principles software development for HPC
 - Quantum computing for chemistry and materials
 - AI-assisted materials simulation and intelligent agents
-
----
 
 ## Software
 The Hu Group develops and maintains first-principles electronic structure software, including:
@@ -44,20 +38,14 @@ The Hu Group develops and maintains first-principles electronic structure softwa
 
 Most repositories are research-oriented and may evolve rapidly.
 
----
-
 ## Computing Platforms
 - CPU/GPU-based supercomputers
 - Large-scale parallel and heterogeneous architectures
 - Emerging quantum and hybrid computing platforms
 
----
-
 ## Collaboration
 We welcome academic collaboration and technical discussion in the areas of
 computational chemistry, materials simulation, high-performance computing, and quantum algorithms.
-
----
 
 ## Affiliation
 **University of Science and Technology of China (USTC)**  
